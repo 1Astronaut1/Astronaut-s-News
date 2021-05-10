@@ -6,7 +6,7 @@
 
 * HTML
 
-* CSS (Bootstrap)
+* CSS
 
 * Web-fonts (Times New Roman, Segoe UI, Tahoma, Geneva, Verdana)
 
